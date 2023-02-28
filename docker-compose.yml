@@ -1,0 +1,25 @@
+version: '3'
+services:
+  express:
+    build: ./docker/express
+    container_name: fuckme
+    ports:
+      - "3001:3001"
+    volumes:
+      - ./app:/app
+    stdin_open: true
+    tty: true
+    command: sh
+  express-tests:
+    depends_on:
+      - express
+    build: ./docker/mocha
+    container_name: fuckthetests
+    ports:
+      - "3002:3002"
+    volumes:
+      - ./app:/app
+    stdin_open: true
+    tty: true
+    command: sh
+

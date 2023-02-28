@@ -1,0 +1,109 @@
+{
+  "chocolates": [
+    {
+      "id": "1",
+      "name": "Sweetyy and Sour Chocolate",
+      "price": 4
+    },
+    {
+      "id": "2",
+      "name": "Milk Chocolate Truffles",
+      "price": 5.99
+    },
+    {
+      "id": "3",
+      "name": "White Chocolate Chips",
+      "price": 2.99
+    },
+    {
+      "id": "4",
+      "name": "Hazelnut Chocolate Spread",
+      "price": 4.99
+    },
+    {
+      "id": "5",
+      "name": "Caramel Filled Chocolate",
+      "price": 6.99
+    },
+    {
+      "id": "6",
+      "name": "Coconut Chocolate Bar",
+      "price": 3.49
+    },
+    {
+      "id": "7",
+      "name": "Almond Chocolate Bark",
+      "price": 7.99
+    },
+    {
+      "id": "8",
+      "name": "Mint Chocolate Chip Ice Cream",
+      "price": 9.99
+    },
+    {
+      "id": "9",
+      "name": "Orange Dark Chocolate",
+      "price": 4.49
+    },
+    {
+      "id": "10",
+      "name": "Peanut Butter Cups",
+      "price": 5.49
+    },
+    {
+      "id": "11",
+      "name": "Chocolate Covered Pretzels",
+      "price": 3.29
+    },
+    {
+      "id": "12",
+      "name": "Cherry Cordials",
+      "price": 6.99
+    },
+    {
+      "id": "13",
+      "name": "S'mores Chocolate Bar",
+      "price": 4.99
+    },
+    {
+      "id": "14",
+      "name": "Chocolate Covered Almonds",
+      "price": 8.99
+    },
+    {
+      "id": "15",
+      "name": "Raspberry Filled Chocolate",
+      "price": 6.49
+    },
+    {
+      "id": "16",
+      "name": "Pistachio Chocolate Truffles",
+      "price": 7.99
+    },
+    {
+      "id": "17",
+      "name": "Cinnamon Chocolate Chips",
+      "price": 2.99
+    },
+    {
+      "id": "18",
+      "name": "Gingerbread Chocolate Bar",
+      "price": 5.99
+    },
+    {
+      "id": "19",
+      "name": "Chocolate Covered Strawberries",
+      "price": 12.99
+    },
+    {
+      "id": "20",
+      "name": "Honeycomb Crunch Chocolate",
+      "price": 4.99
+    },
+    {
+      "name": "Cool Chocolate",
+      "price": 21,
+      "id": 20
+    }
+  ]
+}
